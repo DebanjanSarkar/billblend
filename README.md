@@ -114,6 +114,16 @@ Because BillBlend is a Single Page Application (SPA) utilizing React Router, a `
 
 ---
 
+## 🚀 This App is Live On:
+
+This app is currently hosted on vercel, on the following URL:
+
+https://billblend.vercel.app/
+
+Give it a try, and use it for your group trips and travels, to make your bills sharing seamless!
+
+---
+
 ## 📄 License
 This project is open-source and free to use. 
 
